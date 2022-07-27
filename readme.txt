@@ -1,7 +1,7 @@
-BEFORE PRESENTING:
+BEFORE USING:
 
-- Turn on MySQL80 service in Windows Services
+- Ensure the MySQL80 service in Windows Services is enabled
 
-- Open Database files in MySQLWorkbench
+- Open Database file in MySQLWorkbench
 
 - Open Windows Volume Mixer (set klasyx volume to 2 - test volume)
